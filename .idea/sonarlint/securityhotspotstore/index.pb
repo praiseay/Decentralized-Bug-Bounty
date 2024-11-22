@@ -11,3 +11,5 @@ S
 #tests/decentralized-charity.test.ts,8/c/8c988c77393c14d4343eaa083dc86036b3fb756f
 N
 contracts/reputation_clar.clar,b/b/bbf947b06f4cc0609f1062891483958fab6c286d
+M
+tests/reputation_clar.test.ts,c/e/ce2e8e32814b37c959aeeab1dee9fdb319ffd2c2
