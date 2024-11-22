@@ -9,3 +9,5 @@ T
 $contracts/decentralized-charity.clar,1/5/15dd92a05ee1040768e1e295806f665de7db09f9
 S
 #tests/decentralized-charity.test.ts,8/c/8c988c77393c14d4343eaa083dc86036b3fb756f
+N
+contracts/reputation_clar.clar,b/b/bbf947b06f4cc0609f1062891483958fab6c286d

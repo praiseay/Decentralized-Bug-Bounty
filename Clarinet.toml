@@ -14,6 +14,11 @@ epoch = 2.5
 path = 'contracts/decentralized-charity.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.reputation_clar]
+path = 'contracts/reputation_clar.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
